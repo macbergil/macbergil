@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi, I'm Domenico 👋
 
-<!--
-**macbergil/macbergil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Linux System Engineer with 13+ years of experience designing, automating and managing infrastructure.
 
-Here are some ideas to get you started:
+I focus on building reliable systems, improving deployment workflows and automating operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+* **Systems**: Linux (Ubuntu, Debian)
+* **Virtualization**: Proxmox VE
+* **Containers**: Docker
+* **Automation**: Ansible
+* **CI/CD**: Pipeline design & implementation
+* **Monitoring**: Prometheus, Grafana
+* **Other**: Networking, system design, troubleshooting
+
+---
+
+## 🚀 Current Focus
+
+* Building a **Proxmox homelab cluster** with ZFS replication and backup strategy
+* Designing a **container-based CI/CD environment**
+* Improving **Infrastructure as Code workflows**
+
+---
+
+## 📂 Featured Projects
+
+> Projects below reflect real-world infrastructure and automation scenarios.
+
+* 🔹 homelab-proxmox-cluster *(in progress)*
+* 🔹 devops-ci-cd-platform *(planned)*
+* 🔹 monitoring-stack *(planned)*
+
+---
+
+## 🧠 Approach
+
+I prefer:
+
+* clean and reproducible setups
+* automation over manual work
+* simple and maintainable architectures
+
+---
+
+## 📫 Contact
+
+* www.linkedin.com/in/domenico-iavarone-2a17ab36
