@@ -1,48 +1,56 @@
-# Hi, I'm Domenico 👋
+<p align="center">
+  <img src="assets/banner.png" />
+</p>
 
-Linux System Engineer with 13+ years of experience designing, automating and managing infrastructure.
+# Domenico Iavarone
 
-I focus on building reliable systems, improving deployment workflows and automating operations.
-
----
-
-## 🔧 Tech Stack
-
-* **Systems**: Linux (Ubuntu, Debian)
-* **Virtualization**: Proxmox VE
-* **Containers**: Docker
-* **Automation**: Ansible
-* **CI/CD**: Pipeline design & implementation
-* **Monitoring**: Prometheus, Grafana
-* **Other**: Networking, system design, troubleshooting
+Linux System Engineer | DevOps | Infrastructure & Automation
 
 ---
 
-## 🚀 Current Focus
+## 👨‍💻 About Me
 
-* Building a **Proxmox homelab cluster** with ZFS replication and backup strategy
-* Designing a **container-based CI/CD environment**
-* Improving **Infrastructure as Code workflows**
+System engineer with 13+ years of experience working on Linux environments, infrastructure design and automation.
+
+I focus on building reliable systems, reducing manual work through automation and designing clean, reproducible environments.
 
 ---
 
-## 📂 Featured Projects
+## 🔧 Core Skills
 
-> Projects below reflect real-world infrastructure and automation scenarios.
+* Linux Systems Administration (Ubuntu, Debian)
+* Virtualization (Proxmox VE)
+* Containerization (Docker)
+* Automation (Ansible)
+* CI/CD pipeline design
+* Monitoring & Observability (Prometheus, Grafana)
+* Networking & troubleshooting
+
+---
+
+## 🚀 Current Work
+
+* Designing a **Proxmox homelab cluster** with ZFS replication
+* Building a **container-based CI/CD platform**
+* Structuring **Infrastructure as Code workflows**
+
+---
+
+## 📂 Projects
+
+> Focused on real-world infrastructure and DevOps scenarios.
 
 * 🔹 homelab-proxmox-cluster *(in progress)*
-* 🔹 devops-ci-cd-platform *(planned)*
+* 🔹 devops-ci-cd-platform *(in progress)*
 * 🔹 monitoring-stack *(planned)*
 
 ---
 
-## 🧠 Approach
+## 🧠 Engineering Approach
 
-I prefer:
-
-* clean and reproducible setups
-* automation over manual work
-* simple and maintainable architectures
+* Automation first
+* Keep it simple and maintainable
+* Prefer reproducibility over quick fixes
 
 ---
 
